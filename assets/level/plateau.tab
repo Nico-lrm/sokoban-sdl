@@ -1,0 +1,57 @@
+# Fichier de test
+
+LARGEUR:16
+HAUTEUR:12
+
+TUILE:0,assets/img/tuile.png
+TUILE:1,assets/img/coin_bd.png
+TUILE:2,assets/img/coin_bg.png
+TUILE:3,assets/img/coin_hd.png
+TUILE:4,assets/img/coin_hg.png
+TUILE:5,assets/img/mur_angle_db.png
+TUILE:6,assets/img/mur_angle_dh.png
+TUILE:7,assets/img/mur_angle_gb.png
+TUILE:8,assets/img/mur_angle_gh.png
+TUILE:9,assets/img/mur_bas.png
+TUILE:10,assets/img/mur_droit.png
+TUILE:11,assets/img/mur_gauche.png
+TUILE:12,assets/img/mur_haut.png
+TUILE:13,assets/img/mur_gd.png
+TUILE:14,assets/img/mur_hb.png
+TUILE:15,assets/img/sortie_bas.png
+TUILE:16,assets/img/sortie_droite.png
+TUILE:17,assets/img/sortie_gauche.png
+TUILE:18,assets/img/sortie_haut.png
+TUILE:19,assets/img/mid_bas.png
+TUILE:20,assets/img/mid_gauche.png
+TUILE:21,assets/img/mid_haut.png
+TUILE:22,assets/img/mid_droit.png
+TUILE:23,assets/img/trou.png
+TUILE:24,assets/img/flaque.png
+TUILE:25,assets/img/feu.png
+
+TAB:
+4 12 21 12 21 12 12 21 21 21 12 21 21 12 12 3
+11 0 14 0 14 0 0 23 14 23 0 14 14 25 25 10
+11 0 14 0 14 0 0 14 14 14 0 23 6 13 13 22
+11 0 6 7 6 13 7 14 14 14 0 14 0 0 0 10
+20 7 0 6 7 0 14 14 14 14 0 6 7 14 24 10
+11 6 7 23 6 13 8 14 14 6 7 0 14 14 0 10
+11 0 6 13 13 13 13 8 14 24 14 0 14 14 0 10
+11 24 5 13 13 13 13 13 8 0 14 5 8 0 0 10
+11 5 8 0 0 23 5 13 7 0 14 14 25 25 0 10
+11 14 0 0 13 7 14 0 0 0 14 6 13 13 7 10
+11 6 13 13 0 14 14 0 0 0 14 0 0 0 14 16
+2 9 9 9 9 19 19 9 9 9 19 9 9 9 19 1
+
+NOBJETS:8
+OBJET:0,assets/img/caisse.png,80,136
+OBJET:1,assets/img/caisse.png,380,72
+OBJET:2,assets/img/caisse.png,240,521
+OBJET:3,assets/img/caisse.png,200,610
+OBJET:4,assets/img/caisse.png,500,610
+OBJET:5,assets/img/caisse.png,750,630
+OBJET:6,assets/img/caisse.png,808,220
+OBJET:7,assets/img/caisse.png,916,220
+
+JOUEUR:assets/img/player.png,80,60

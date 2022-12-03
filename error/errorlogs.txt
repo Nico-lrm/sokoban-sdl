@@ -1,0 +1,93 @@
+### 09-12-2021 @ 03:57:07 ###
+ERREUR SDL : Invalid texture
+
+### 09-12-2021 @ 03:57:09 ###
+ERREUR SDL : Invalid texture
+
+### 09-12-2021 @ 03:57:24 ###
+ERREUR SDL : Invalid texture
+
+### 09-12-2021 @ 03:57:25 ###
+ERREUR SDL : Invalid texture
+
+### 09-12-2021 @ 04:12:48 ###
+ERREUR SDL : Invalid texture
+
+### 09-12-2021 @ 04:12:50 ###
+ERREUR SDL : Invalid texture
+
+### 09-12-2021 @ 04:12:51 ###
+ERREUR SDL : Invalid texture
+
+### 09-12-2021 @ 04:12:51 ###
+ERREUR SDL : Invalid texture
+
+### 09-12-2021 @ 04:12:52 ###
+ERREUR SDL : Invalid texture
+
+### 09-12-2021 @ 04:12:52 ###
+ERREUR SDL : Invalid texture
+
+### 09-12-2021 @ 04:12:52 ###
+ERREUR SDL : Invalid texture
+
+### 09-12-2021 @ 04:12:52 ###
+ERREUR SDL : Invalid texture
+
+### 09-12-2021 @ 04:12:53 ###
+ERREUR SDL : Invalid texture
+
+### 09-12-2021 @ 04:12:53 ###
+ERREUR SDL : Invalid texture
+
+### 09-12-2021 @ 04:12:53 ###
+ERREUR SDL : Invalid texture
+
+### 09-12-2021 @ 04:12:53 ###
+ERREUR SDL : Invalid texture
+
+### 09-12-2021 @ 04:12:53 ###
+ERREUR SDL : Invalid texture
+
+### 09-12-2021 @ 04:12:54 ###
+ERREUR SDL : Invalid texture
+
+### 09-12-2021 @ 04:12:54 ###
+ERREUR SDL : Invalid texture
+
+### 09-12-2021 @ 04:12:54 ###
+ERREUR SDL : Invalid texture
+
+### 09-12-2021 @ 04:12:54 ###
+ERREUR SDL : Invalid texture
+
+### 09-12-2021 @ 04:12:54 ###
+ERREUR SDL : Invalid texture
+
+### 09-12-2021 @ 04:12:54 ###
+ERREUR SDL : Invalid texture
+
+### 09-12-2021 @ 04:12:54 ###
+ERREUR SDL : Invalid texture
+
+### 09-12-2021 @ 04:12:54 ###
+ERREUR SDL : Invalid texture
+
+### 09-12-2021 @ 04:12:55 ###
+ERREUR SDL : Invalid texture
+
+### 09-12-2021 @ 04:12:55 ###
+ERREUR SDL : Invalid texture
+
+### 09-12-2021 @ 04:12:55 ###
+ERREUR SDL : Invalid texture
+
+### 09-12-2021 @ 04:12:55 ###
+ERREUR SDL : Invalid texture
+
+### 09-12-2021 @ 04:12:55 ###
+ERREUR SDL : Invalid texture
+
+### 09-12-2021 @ 04:12:55 ###
+ERREUR SDL : Invalid texture
+
