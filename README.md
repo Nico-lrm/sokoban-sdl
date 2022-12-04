@@ -33,3 +33,5 @@ Enfin, il vous suffit de compiler le programme grâce à la commande "make" et d
 make
 ./bin/prog
 ```
+## Screenshot
+![Screenshot de l'écran de jeu](https://github.com/Nico-lrm/sokoban-sdl/blob/main/assets/example/sokoscape.png)
