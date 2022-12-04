@@ -19,7 +19,7 @@ La démo d'installation du programme sera faite sous Linux, il est nécessaire d
 Tout d'abord, vous devez installer les dépendances nécessaires au fonctionnement du jeu.
 
 ```bash
-  sudo apt-get install libsdl2-dev libsdl2-image-dev libsdl2-ttf-dev
+sudo apt-get install libsdl2-dev libsdl2-image-dev libsdl2-ttf-dev
 ```
 
 Une fois les dépendances installées, vous pouvez cloner le dossier et vous positionner dans le dossier.
